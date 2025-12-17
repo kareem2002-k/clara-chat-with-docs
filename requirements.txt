@@ -1,0 +1,10 @@
+gradio
+torch
+transformers
+huggingface_hub
+peft
+accelerate
+sentence-transformers
+numpy
+pytest
+
